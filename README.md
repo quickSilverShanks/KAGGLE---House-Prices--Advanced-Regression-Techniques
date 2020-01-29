@@ -1,0 +1,2 @@
+# KAGGLE : House Prices: Advanced Regression Techniques
+ This contains python codes for kaggle submissions for the house price prediction. The codes begin with concepts learnt from "kaggle courses" and then i use all the gained knowledge to make the best possible model. Kaggle ranks achieved is also commented in the codes to keep track of my progress. Codes have been written in a very revision friendly manner.
